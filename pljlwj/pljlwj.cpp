@@ -18,6 +18,9 @@ int main()
 	//char s3[1];
 	char file[180];
 	char file1[180];
+
+
+
 	do
 	{
 		cout << "请输入起点：" << endl;
